@@ -47,8 +47,8 @@ spring.jpa.show-sql=true
 - `id`: Long  
 - `nome`: String  
 - `email`: String  
-- `senha`: String (criptografada com BCrypt)  
-- `tipo`: String (ex: "ADMIN" ou "USER")  
+- `senha`: String  
+- `tipo`: String   
 
 ### 📝 Postagem
 - `id`: Long  
