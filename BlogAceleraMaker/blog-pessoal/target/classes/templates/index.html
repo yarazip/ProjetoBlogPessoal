@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Dashboard</title>
+</head>
+<body>
+    <h2>Bem-vindo, <span th:text="${usuario}">usuário</span>!</h2>
+    <p>Token JWT:</p>
+    <pre th:text="${token}"></pre>
+</body>
+</html>
