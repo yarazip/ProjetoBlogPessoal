@@ -141,7 +141,7 @@ spring.jpa.show-sql=true
 ---
 
 
-## 👨‍💻 Autor
+## 👩🏻‍💻 Autor
 
 **Yara Rosa**  
 Estudante de Análise e Desenvolvimento de Sistemas  
